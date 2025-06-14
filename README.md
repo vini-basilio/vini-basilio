@@ -7,7 +7,14 @@ Gosto muito de desafios técnicos, por isso alguns projetos que fiz, tem meu cor
 - [Desafio Técnico Itaú Unibanco - Java](https://github.com/vini-basilio/desafio-itau-java)
 - [API simples para Microblog - Java](https://github.com/vini-basilio/dev-posts)
 - [Emulador CHIP-8 - TypeScript](https://github.com/vini-basilio/chip8-vite)
-- [Disassembler CLI para o CHIP-8](https://github.com/vini-basilio/cli-chip-8-disassembler)
+- [Disassembler CLI para o CHIP-8 - Rust](https://github.com/vini-basilio/cli-chip-8-disassembler)
+
+---
+
+CURSOS E CERTIFICAÇÕES
+● Desenvolvimento Backend com Java e Spring Boot - Dio (2025)
+● Introdução a Bancos de Dados Relacionais - Dio (2025)
+● Git e GitHub - Dio (2025)
 
 ---
 
