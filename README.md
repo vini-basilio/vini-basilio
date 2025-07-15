@@ -17,16 +17,6 @@ Gosto muito de desafios técnicos, por isso alguns projetos que fiz, tem meu cor
 - Desenvolvimento Backend com Java e Spring Boot - Dio (2025)
 - Introdução a Bancos de Dados Relacionais - Dio (2025)
 - Git e GitHub - Dio (2025)
-
----
-
-<a href="https://github.com/vini-basilio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vini-basilio" />
-</a>
-<a href="https://github.com/vini-basilio/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-basilio&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ---
 </picture>
 <p align="center">
