@@ -8,9 +8,9 @@ mas para mim era apenas um hobby, até que a programação se tornou uma ferrame
 Gosto muito de desafios técnicos, por isso alguns projetos que fiz, tem meu coração, por terem sido desafiantes na época em que foram realizados.
 - [Desafio Técnico Itaú Unibanco - Java](https://github.com/vini-basilio/desafio-itau-java)
 - [API simples para Microblog - Java](https://github.com/vini-basilio/dev-posts)
+- [Desafio técnico, API de pagamentos simples](https://github.com/vini-basilio/api-pagamentos-simples)
 - [Emulador CHIP-8 - TypeScript](https://github.com/vini-basilio/chip8-vite)
 - [Assembler e disassembler CLI para o CHIP-8 - Rust (segundo projeto em Rust)](https://github.com/vini-basilio/chip-8-assembler-disassembler-rust)
-
 ---
 
 ## Cursos
